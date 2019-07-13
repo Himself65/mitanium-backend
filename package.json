@@ -1,0 +1,15 @@
+{
+  "name": "mitanium-backend",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "himself65",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "@types/node": "^12.6.2"
+  }
+}
